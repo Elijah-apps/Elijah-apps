@@ -3,10 +3,13 @@
 ## Hello  I am Elijah
 > #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
 - 🔭 i am full stack multiskilled software engineer sharing about my journey and learning in tech</br>
-- 🌱 studied in...
+- 🌱 studied in serutech codeacademy bootcamp
+- worked in projects on the public and private sector in my country nigeria as an freelancer
+- i am a interdisciplinary  learner just like elon musk
 
 # My Certificates
   - [Relational Database](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/relational-database-v8)
+  - [Backend & API developement](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/back-end-development-and-apis)
   
 ## My Stack
 
