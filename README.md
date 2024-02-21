@@ -1,4 +1,4 @@
-![Greetings](https://giffiles.alphacoders.com/211/211693.gif)
+![Greetings](https://drive.google.com/file/d/11NX8gvmsgQA-PH8jIZC5vvjYnnWAVuyh/view?usp=drive_link)
 
 ## Hello  I am Elijah
 > #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
