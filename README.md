@@ -1,11 +1,10 @@
 ![Elijah](https://giffiles.alphacoders.com/211/211705.gif)
+> 
+> It can span multiple lines.
+> - Author
 
-## Hi there 👋 i am Elijah
 
- 
-**Elijah-apps/Elijah-apps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## I am Elijah Ekpen Mensah
 
 - 🔭 i am full stack multiskilled software engineer sharing about my journey and learning in tech</br>
 - 🌱 studied in...
