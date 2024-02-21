@@ -1,4 +1,4 @@
-![Greetings](https://giffiles.alphacoders.com/211/211705.gif)
+![Greetings](https://media1.tenor.com/m/HZZ7UqFVS4cAAAAC/minnie-mouse-and-mickey-mouse.gif)
 
 ## Hello  I am Elijah
 > #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
