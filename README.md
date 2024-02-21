@@ -1,4 +1,4 @@
-![Greetings](https://drive.google.com/file/d/11NX8gvmsgQA-PH8jIZC5vvjYnnWAVuyh/view?usp=drive_link)
+![Greetings](https://drive.google.com/file/d/11NX8gvmsgQA-PH8jIZC5vvjYnnWAVuyh/view)
 
 ## Hello  I am Elijah
 > #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
@@ -40,6 +40,14 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
 ![Railway](https://img.shields.io/badge/-Railway-%230B0D0E?style=flat-square&logo=railway)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-Expert-blue?logo=php)
+![Linux Bash](https://img.shields.io/badge/Linux%20Bash-Expert-green?logo=linux)
+![Jenkins](https://img.shields.io/badge/Jenkins-Expert-red?logo=jenkins)
+![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)
+![Elixir](https://img.shields.io/badge/Elixir-Expert-purple?logo=elixir)
+![Mojo](https://img.shields.io/badge/Mojo-Expert-orange?logo=mojo)
+![Go](https://img.shields.io/badge/Go-Expert-blue?logo=go)
+![Solidity](https://img.shields.io/badge/Solidity-Expert-blueviolet?logo=solidity)
 
 ### Opensource Projects
 - CSS Framework:
