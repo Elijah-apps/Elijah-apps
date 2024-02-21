@@ -1,4 +1,4 @@
-![Greetings]( https://giffiles.alphacoders.com/211/211693.gif)
+![Greetings](https://giffiles.alphacoders.com/211/211693.gif)
 
 ## Hello  I am Elijah
 > #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
@@ -10,6 +10,7 @@
 # My Certificates
   - [Relational Database](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/relational-database-v8)
   - [Backend & API developement](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/back-end-development-and-apis)
+  - [CI/CD For Beginners](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODA1IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDg4MzE2MF8xNzA4MTg0NzA3LnBuZyIsInVzZXJuYW1lIjoiRUxJSkFIIEVLUEVOIE1FTlNBSCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4303%2FCI%252FCD-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1288039701108830095&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN%2FMP8s2L8nJM90gCAO2LnislAAAA)
   
 ## My Stack
 
