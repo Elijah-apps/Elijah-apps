@@ -1,4 +1,4 @@
-![Greetings](https://gifdb.com/images/high/mickey-mouse-walking-whistling-txl9efwtd1f9fv9u.gif)
+![Greetings]( https://giffiles.alphacoders.com/211/211693.gif)
 
 ## Hello  I am Elijah
 > #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
