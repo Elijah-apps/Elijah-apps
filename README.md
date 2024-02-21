@@ -1,3 +1,5 @@
+![Elijah](https://giffiles.alphacoders.com/211/211705.gif)
+
 ## Hi there 👋 i am Elijah
 
  
@@ -7,6 +9,10 @@ Here are some ideas to get you started:
 
 - 🔭 i am full stack multiskilled software engineer sharing about my journey and learning in tech</br>
 - 🌱 studied in...
+
+## My Certificates
+
+
 ## 𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
