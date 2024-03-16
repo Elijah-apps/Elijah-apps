@@ -1,19 +1,26 @@
-![Greetings](https://gifdb.com/images/high/kung-fu-panda-po-waving-ub3ic92611g1yvxk.webp)
+# Greetings
 
-## Hello  I am Elijah
-> #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
-- 🔭 I am full stack multi-skilled software engineer,data analyst and devops  sharing about my journey and learning in tech</br>
-- 🌱 Took interest in programming and started teaching myself from 2016
-- 🌱 Studied in serutech codeacademy bootcamp year 2020
-- worked in projects on the public and private sector in my country nigeria as an freelancer
-- i am a interdisciplinary  learner just like elon musk
-  
- | # | Academy       | Certificate Title                                | Visit Link |
+![Kung Fu Panda Waving](https://gifdb.com/images/high/kung-fu-panda-po-waving-ub3ic92611g1yvxk.webp)
+
+## Hello, I am Elijah
+
+> "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
+
+- 🔭 I am a full-stack multi-skilled software engineer, data analyst, and DevOps practitioner, sharing my journey and learning in tech.
+- 🌱 I took an interest in programming and started teaching myself in 2016.
+- 🌱 I studied at Serutech Codeacademy Bootcamp in 2020.
+- I have worked on projects in both the public and private sectors in Nigeria as a freelancer.
+- I am an interdisciplinary learner, just like Elon Musk.
+
+## My Certificates
+
+| # | Academy       | Certificate Title                                | Visit Link |
 |---|---------------|--------------------------------------------------|------------|
 | 1 | Freecodecamp  | Relational Database                             | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/relational-database-v8) |
 | 2 | Freecodecamp  | Backend & API Development                       | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/back-end-development-and-apis) |
 | 3 | Freecodecamp  | Front End Development Libraries                 | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/front-end-development-libraries) |
 | 4 | Simplilearn   | CI/CD For Beginners                             | [Certificate](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODA1IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDg4MzE2MF8xNzA4MTg0NzA3LnBuZyIsInVzZXJuYW1lIjoiRUxJSkFIIEVLUEVOIE1FTlNBSCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4303%2FCI%252FCD-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1288039701108830095&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN%2FMP8s2L8nJM90gCAO2LnislAAAA) |
+| 5 | EFSET         | English Proficiency                             | [Certificate](https://www.efset.org/) |
 
 ## My Stack
 
@@ -23,33 +30,23 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat-square&logo=less&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css) 
-![PHP](https://img.shields.io/badge/PHP-Expert-blue?logo=php)
-![Linux Bash](https://img.shields.io/badge/Linux%20Bash-Expert-green?logo=linux)
-![Jenkins](https://img.shields.io/badge/Jenkins-Expert-red?logo=jenkins)
-![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)
-![Elixir](https://img.shields.io/badge/Elixir-Expert-purple?logo=elixir)
-![Mojo](https://img.shields.io/badge/Mojo-Expert-orange?logo=mojo)
-![Go](https://img.shields.io/badge/Go-Expert-blue?logo=go)
-![Solidity](https://img.shields.io/badge/Solidity-Expert-blueviolet?logo=solidity)
-![Ruby](https://img.shields.io/badge/Ruby-Expert-red?logo=ruby)
-![Java](https://img.shields.io/badge/Java-Expert-orange?logo=java)
-![C++](https://img.shields.io/badge/C++-Expert-blue?logo=c%2B%2B)
+ 
 
+## Languages 🌐
 
- ### Languages 🌐
+| Language  | Proficiency                                                      |
+| --------- | ---------------------------------------------------------------- |
+| English   | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))       |
+| German    | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Spanish   | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Chineese  | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
 
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English (duh) | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))                 |
-| German        | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |                                                      |
+## Resume 🌐
 
-## What I'm currently learning 📚
-
-- Japaneese
-- NLP
-
-  
+| Language  | Download                                                     |
+| --------- | ---------------------------------------------------------------- |
+| English   | PDF ([EFSET certified](https://www.efset.org/cert/5P5Pp1))       |
+| German    | PDF ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Spanish   | PDF ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
+| Chineese  | PDF ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
