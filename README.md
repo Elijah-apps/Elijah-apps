@@ -31,17 +31,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css) 
- 
-
-## Languages 🌐
-
-| Language  | Proficiency                                                      |
-| --------- | ---------------------------------------------------------------- |
-| English   | C2 ([EFSET certified](https://www.efset.org/cert/5P5Pp1))       |
-| German    | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Spanish   | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Chineese  | B1 ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-
+  
 ## Resume 🌐
 
 | Language  | Download                                                     |
