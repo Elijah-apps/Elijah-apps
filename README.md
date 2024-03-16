@@ -1,4 +1,4 @@
-![Greetings](https://gifdb.com/images/high/mickey-mouse-steamboat-willie-855phttcyqvwbc7u.webp)
+![Greetings](https://gifdb.com/images/high/kung-fu-panda-po-waving-ub3ic92611g1yvxk.webp)
 
 ## Hello  I am Elijah
 > #### "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it" - Patrick McKenzie
