@@ -20,8 +20,7 @@
 | 2 | Freecodecamp  | Backend & API Development                       | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/back-end-development-and-apis) |
 | 3 | Freecodecamp  | Front End Development Libraries                 | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/front-end-development-libraries) |
 | 4 | Simplilearn   | CI/CD For Beginners                             | [Certificate](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODA1IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDg4MzE2MF8xNzA4MTg0NzA3LnBuZyIsInVzZXJuYW1lIjoiRUxJSkFIIEVLUEVOIE1FTlNBSCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4303%2FCI%252FCD-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1288039701108830095&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN%2FMP8s2L8nJM90gCAO2LnislAAAA) |
-| 5 | EFSET         | English Proficiency                             | [Certificate](https://www.efset.org/) |
-| 6| Great Learning  | Project Management | [Certificate](https://verify.mygreatlearning.com/verify/GXGGGKNW)
+| 5| Great Learning  | Project Management | [Certificate](https://verify.mygreatlearning.com/verify/GXGGGKNW)
 
 ## My Stack
 
