@@ -40,42 +40,7 @@
 ![C++](https://img.shields.io/badge/C++-Expert-blue?logo=c%2B%2B)
 
 
-# Authored Opensource Projects 
-
-### Bash Scripts
--[mickey.css framework](https://google.com)
-
-### My Jenkins Plugins
--[uzumaki microframework](https://google.com)
--[Resume-builder-cli](https://google.com)
-
-### My CSS Framework & Libraries
--[mickey.css framework](https://google.com)
-### My Python Libraries
--[uzumaki microframework](https://google.com)
--[Resume-builder-cli](https://google.com)
-
-### My NPM Modules
--[uzumaki microframework](https://google.com)
--[Resume-builder-cli](https://google.com)
-
-### Ruby Gems
--[uzumaki microframework](https://google.com)
--[Resume-builder-cli](https://google.com)
-
-### My PHP Libraries  
--[uzumaki microframework](https://google.com)
--[Resume-builder-cli](https://google.com)
-
-### My VS Code Extensions  
--[uzumaki microframework](https://google.com)
--[Resume-builder-cli](https://google.com)
-
-### My Chrome Extensions  
--[uzumaki microframework](https://google.com)
--[Resume-builder-cli](https://google.com)
-
-### Languages 🌐
+ ### Languages 🌐
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
