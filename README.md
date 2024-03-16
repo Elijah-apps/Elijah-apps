@@ -7,13 +7,14 @@
 - 🌱 Studied in serutech codeacademy bootcamp year 2020
 - worked in projects on the public and private sector in my country nigeria as an freelancer
 - i am a interdisciplinary  learner just like elon musk
-
-# My Certificates
-  - [Relational Database => Freecodecamp](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/relational-database-v8)
-  - [Backend & API developement => Freecodecamp](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/back-end-development-and-apis)
-  - [Front End Developement Libraries => Freecodecamp](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/front-end-development-libraries)
-  - [CI/CD For Beginners => Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODA1IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDg4MzE2MF8xNzA4MTg0NzA3LnBuZyIsInVzZXJuYW1lIjoiRUxJSkFIIEVLUEVOIE1FTlNBSCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4303%2FCI%252FCD-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1288039701108830095&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN%2FMP8s2L8nJM90gCAO2LnislAAAA)
   
+ | # | Academy       | Certificate Title                                | Visit Link |
+|---|---------------|--------------------------------------------------|------------|
+| 1 | Freecodecamp  | Relational Database                             | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/relational-database-v8) |
+| 2 | Freecodecamp  | Backend & API Development                       | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/back-end-development-and-apis) |
+| 3 | Freecodecamp  | Front End Development Libraries                 | [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/front-end-development-libraries) |
+| 4 | Simplilearn   | CI/CD For Beginners                             | [Certificate](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODA1IiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvdGh1bWJfNDg4MzE2MF8xNzA4MTg0NzA3LnBuZyIsInVzZXJuYW1lIjoiRUxJSkFIIEVLUEVOIE1FTlNBSCJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4303%2FCI%252FCD-for-Beginners%2Fcertificate%2Fdownload-skillup&%24web_only=true&_branch_match_id=1288039701108830095&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVN%2FMP8s2L8nJM90gCAO2LnislAAAA) |
+
 ## My Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
