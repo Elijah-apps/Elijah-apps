@@ -7,7 +7,7 @@
 > "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." - Patrick McKenzie
 
 - 🔭 I am a full-stack multi-skilled software engineer, data analyst, and DevOps practitioner, sharing my journey and learning in tech.
-- 🌱 I took an interest in programming and started teaching myself in 2016.
+- 🌱 I took an interest in programming and started teaching myself in 2015.
 - 🌱 I studied at Serutech Codeacademy Bootcamp in 2020.
 - I have worked on projects in both the public and private sectors in Nigeria as a freelancer.
 - I am an interdisciplinary learner, just like Elon Musk.
