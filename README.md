@@ -24,5 +24,5 @@
 | 6| Intellipaat Academy  | Data Science | [Certificate](https://intellipaat.com/academy/certificate-link/?Yz00Mjc0JnU9MTY2MDM5JmV4dD0x)
 
 ## Statistics
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ [![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
