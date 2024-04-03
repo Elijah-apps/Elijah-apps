@@ -33,11 +33,4 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css) 
   
-## Resume 🌐
 
-| Language  | Download                                                     |
-| --------- | ---------------------------------------------------------------- |
-| English   | PDF ([EFSET certified](https://www.efset.org/cert/5P5Pp1))       |
-| German    | PDF ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Spanish   | PDF ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
-| Chineese  | PDF ([DSD Certificate](https://www.goethe.de/en/spr/kup/prf/prf/gb1.html)) |
