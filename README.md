@@ -26,6 +26,10 @@
 | 8| Saylor Academy, Washington DC.  USA  | CS302: Software Engineering | [Certificate](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1722004982/0803006548EE.pdf)
 | 9| Saylor Academy, Washington DC.  USA  | BUS605: Strategic Project Management | [Certificate](https://learn.saylor.org/pluginfile.php/1/tool_certificate/issues/1722413231/3542920137EE.pdf)
 
+| 10| Freecodecamp |Machine Learning with Python| [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/machine-learning-with-python-v7)
+
+| 11| Freecodecamp |Foundational C# with Microsoft| [Certificate](https://www.freecodecamp.org/certification/elijah-ekpen-mensah/foundational-c-sharp-with-microsoft)
+
 ## Statistics
  [![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elijah-apps)](https://github.com/anuraghazra/github-readme-stats)
 
